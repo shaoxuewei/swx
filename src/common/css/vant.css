@@ -1,0 +1,38 @@
+.vant {
+  font-size: 16px;
+}
+.vant .vant-tab {
+  font-size: 17px;
+  color: #999999;
+}
+.vant .van-tab span {
+  display: block;
+  font-size: 17px;
+}
+.vant .van-tabs__line {
+  z-index: 1;
+  bottom: 15px;
+  height: 3px;
+  position: absolute;
+  border-radius: 3px;
+  background-color: #008fb0;
+  width: 70px;
+}
+.vant .van-tabs .van-tab__pane {
+  width: 100%;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background: #fff;
+}
+.vant .van-tabs__wrap {
+  left: 0;
+  right: 0;
+  z-index: 99;
+  overflow: hidden;
+}
+.vant .van-tab--active {
+  font-weight: 500;
+  color: #008fb0;
+}

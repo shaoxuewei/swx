@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_xinzeng</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的信息" transform="translate(-260.000000, -716.000000)" fill="#008FB0" fill-rule="nonzero">
+            <g id="jia" transform="translate(260.000000, 716.000000)">
+                <path d="M20.125,10 L17.875,10 L17.875,17.875 L10,17.875 L10,20.125 L17.875,20.125 L17.875,28 L20.125,28 L20.125,20.125 L28,20.125 L28,17.875 L20.125,17.875 L20.125,10 Z M19,1 C9.05799999,1 1,9.05875001 1,19 C1,28.942 9.05799999,37 19,37 C28.942,37 37,28.942 37,19 C37,9.05875001 28.942,1 19,1 Z M19,34.1875 C10.612,34.1875 3.8125,27.388 3.8125,19 C3.8125,10.612 10.612,3.8125 19,3.8125 C27.388,3.8125 34.1875,10.612 34.1875,19 C34.1875,27.388 27.388,34.1875 19,34.1875 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

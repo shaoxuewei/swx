@@ -1,0 +1,252 @@
+@import './iconfont.css';
+/** 清除内外边距 **/
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+blockquote,
+/* structural elements 结构元素 */
+
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+/* list elements 列表元素 */
+
+pre,
+/* text formatting elements 文本格式元素 */
+
+form,
+fieldset,
+legend,
+button,
+input,
+textarea,
+/* form elements 表单元素 */
+
+th,
+td
+/* table elements 表格元素 */
+
+    {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 100%;
+}
+
+address,
+cite,
+dfn,
+em,
+var {
+    font-style: normal;
+}
+
+/* 将斜体扶正 */
+
+code,
+kbd,
+pre,
+samp {
+    font-family: courier new, courier, monospace;
+}
+
+/* 统一等宽字体 */
+
+/** 重置列表元素 **/
+
+ul,
+ol {
+    list-style: none;
+}
+
+/** 重置文本格式元素 **/
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:focus {
+    text-decoration: none;
+}
+
+/** 重置表单元素 **/
+
+legend {
+    color: #000;
+}
+
+/* for ie6 */
+
+fieldset,
+img {
+    border: 0;
+}
+
+/* img 搭车：让链接里的 img 无边框 */
+
+button,
+input,
+select,
+textarea {
+    font-size: 100%;
+}
+
+/* 使得表单元素在 ie 下能继承字体大小 */
+
+/* 注：optgroup 无法扶正 */
+
+/** 重置表格元素 **/
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+button {
+    background: none;
+    border: none;
+}
+
+* {
+    -webkit-backface-visibility: hidden;
+}
+
+.main-color {
+    color: #00cc00 !important;
+}
+html,
+body {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    width:100%;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+input[type=search]::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+}
+
+.weui-dialog .weui-cell__bd {
+    border: .027rem solid #cccccc;
+    border-radius: .107rem;
+    padding: .133rem;
+    margin-bottom: .027rem;
+}
+
+.weui-input {
+    height: .8rem !important;
+}
+
+.page .weui-cells {
+    font-size: .373rem;
+}
+
+.weui-cell__ft.vux-cell-align-left {
+    color: #000;
+}
+
+::-webkit-scrollbar {
+    /*隐藏滚轮*/
+    display: none;
+}
+
+.refresh-hook,
+.loading-hook {
+    position: relative;
+    height: 0.64rem;
+    line-height: 0.64rem;
+    text-align: center;
+    display: none;
+    z-index: 100;
+}
+
+.loading-hook {
+    position: absolute;
+    bottom: .25rem;
+    width: 100%;
+}
+.btn-vote {
+    color: #fff;
+    background-color: #5f3261;
+    text-align: center;
+}
+
+.btn-vote .iconfont {
+    margin-right: 0.156rem;
+    font-size: .313rem;
+}
+.dialog-close {
+    display: inline-block;
+    position: absolute;
+    top: -0.313rem;
+    right: -.25rem;
+    background: #fff;
+    width: 0.625rem;
+    height: 0.625rem;
+    line-height: 0.625rem;
+    text-align: center;
+    border-radius: 0.625rem;
+    color: #a0a0a0;
+   
+  }
+  .dialog-close  .iconfont{
+    font-size: .313rem;
+  }
+
+.details-dialog .weui-dialog {
+    padding: .5rem;
+    overflow: initial;
+}
+.search-dialog .weui-dialog {
+    overflow: initial;
+}
+.vux-swiper{
+    transition: 0.3s all;
+}
+
+::-moz-placeholder{
+    color: rgb(169, 169, 169);
+  }
+::-webkit-input-placeholder{
+    color: rgb(169, 169, 169);
+  }
+:-ms-input-placeholder{
+    color: rgb(169, 169, 169);
+  }
+:-moz-placeholder {
+  color: rgb(169, 169, 169);
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="38px" viewBox="0 0 82 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>体检</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的档案-copy" transform="translate(-40.000000, -864.000000)">
+            <g id="Tag/Color/Green-Copy-3" transform="translate(40.000000, 864.000000)">
+                <path d="M6,2 L76,2 C78.209139,2 80,3.790861 80,6 L80,32 C80,34.209139 78.209139,36 76,36 L6,36 C3.790861,36 2,34.209139 2,32 L2,6 C2,3.790861 3.790861,2 6,2 Z" id="Rectangle-1152" stroke="#B7EB8F" fill="#F6FFED"></path>
+                <text id="--↳-Text" font-family="PingFangSC-Regular, PingFang SC" font-size="26" font-weight="normal" line-spacing="20" fill="#52C41A">
+                    <tspan x="15" y="37">体检</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
